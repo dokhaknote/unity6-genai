@@ -13,17 +13,14 @@
 ### Import 방법
 1. [Chapter1.unitypackage](Chapter1_GettingStarted\Chapter1.unitypackage) 파일을 다운로드합니다.
 2. 유니티 에디터를 열어서 상단 메뉴바의 `Assets > Import Package > Custom Package...` 을 선택합니다.<br>
-<img src="ScreenShot2.png" width="50%">
+    <img src="ScreenShot2.png" width="50%">
 3. 다운받은 `Chapter1.unitypackage` 파일을 선택합니다.
 4. 중복에 주의하며 `import` 합니다.<br>
-<img src="ScreenShot3.png" width="30%">
+    <img src="ScreenShot3.png" width="30%">
 
 
-    > <br>
-    > 
+
     > **🚨 주의 사항**
     >
-    > `import`할 때에 **같은 폴더 경로**에 **같은 파일명**을 가진 파일은 새로운 파일로 덮어씌워집니다!<br><br>
-
-
+    > `import`할 때에 **같은 폴더 경로**에 **같은 파일명**을 가진 파일은 새로운 파일로 덮어씌워집니다!
 
