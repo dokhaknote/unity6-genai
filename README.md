@@ -25,19 +25,15 @@
 
 1. 아래의 주소 맨 뒤에 다운로드 하고 싶은 폴더의 주소를 붙여넣습니다.<br>
 `https://downgit.github.io/#/home?url=`<폴더주소>
-
 <br>
 
 2. 예를 들어 Chapter1_GettingStarted의 Assets/Material 폴더를 다운로드 하고싶다면 해당 폴더로 이동합니다.<br>
-<img src="ReadmeResource/개별파일다운로드방법_캡처3.png" width="100%">
-
-
+<img src="ReadmeResource/개별파일다운로드방법_캡처3.png" width="90%">
 <br>
 
 3. 브라우저 상단의 주소창에서 주소를 복사하여 다음과 같이 완성합니다.<br>
 `https://downgit.github.io/#/home?url=`https://github.com/dokhaknote/unity6-genai/tree/main/Chapter1_GettingStarted/Assets/Material
-
 <br>
 
 4. 그 후 완성된 주소를 복사하여 브라우저 주소란에 붙여넣기하면 자동으로 다운로드 받아집니다.<br>
-<img src="ReadmeResource/개별파일다운로드방법_캡처3.png" width="100%">
+<img src="ReadmeResource/개별파일다운로드방법_캡처3.png" width="90%">
